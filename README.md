@@ -4,4 +4,4 @@ An open source project aimed at bringing valuable tools and education to develop
 
 More info to come. 
 
-This branch is for content specifically and will be developed independently of the core site (framework).
+Will have branches for Content, Tools, and Contribution
